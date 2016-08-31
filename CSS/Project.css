@@ -1,0 +1,38 @@
+body{
+
+}
+
+#footer{
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 10px;
+}
+
+#Boxes{
+   border-style:solid;
+   border-color:black;
+   border-width:2px;
+
+}
+
+h2{
+  color:black;
+}
+
+img{
+  margin-top: 50px;
+}
+
+#description{
+  padding:20px;
+}
+
+p{
+  color:black;
+  font-weight: bold;
+}
+
+li{
+  color:black;
+  font-weight: bold;
+}

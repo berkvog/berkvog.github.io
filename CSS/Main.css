@@ -1,0 +1,30 @@
+body{
+
+}
+
+
+
+#Photo{
+  position: relative;
+  top:80px;
+  left:20px;
+}
+
+#Description{
+ position: relative;
+ top: 100px;
+ left: 80px;
+}
+
+#Description > p{
+ color: black;
+ font-weight: bold;
+ font-size:25px;
+ font-family: "Old Standard TT";
+}
+
+#footer{
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 30px;
+}
