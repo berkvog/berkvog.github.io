@@ -1,15 +1,12 @@
-body{
+.body{
 
 }
 
-#footer{
-  position: fixed;
-  bottom: 0;
-  margin-bottom: 10px;
-}
 
 #Boxes{
-   border-style:solid;
+   border-left-style:solid;
+   border-right-style:none;
+   border-bottom-style: none;
    border-color:black;
    border-width:2px;
 
@@ -25,11 +22,13 @@ img{
 
 #description{
   padding:20px;
+  margin-left:30px;
 }
 
 p{
   color:black;
   font-weight: bold;
+  font-size: 20px;
 }
 
 li{

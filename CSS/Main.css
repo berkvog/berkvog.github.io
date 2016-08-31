@@ -7,13 +7,13 @@ body{
 #Photo{
   position: relative;
   top:80px;
-  left:20px;
+  left:30px;
 }
 
 #Description{
  position: relative;
  top: 100px;
- left: 80px;
+ left: 100px;
 }
 
 #Description > p{
@@ -23,8 +23,8 @@ body{
  font-family: "Old Standard TT";
 }
 
+
 #footer{
-  position: fixed;
-  bottom: 0;
-  margin-bottom: 30px;
+  position:fixed;
+  bottom:0;
 }

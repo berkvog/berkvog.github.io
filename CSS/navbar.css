@@ -1,129 +1,31 @@
-.navigation-app {
-  background: #ffb91a;
-  width: 100%;
-  font-family: 'Open Sans';
-  font-weight: 100;
-  color: black;
-}
-
-.navbar-default .navbar-collapse.navbar-default .navbar-form {
-  border:none;
-}
-
-.container.topnav {
-  width: 100%;
-  padding:20px;
-  background: url(../img/dog.jpg);
-  background-size: 100%;
-  background-position-y: -120px;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+.body{
 
 }
 
-.logo {
-  width:80px;
-  height: 80px;
-  float: left;
+#theNav{
+  border-style:none;
 }
 
-.app-name {
-    font-size: 37pt;
-    color: black;
-    font-family: 'Bitter';
-    font-weight: bold;
-    position: relative;
-    left: 20px;
-    width: 400px;
-}
 
-.app-name a {
-  color: #e6be1a;
 
-}
-
-.app-name a:hover {
-  text-decoration: none;
-
-}
-
-#puppynav {
-  width: 100%;
-  text-align: center;
-  font-family: 'Bitter';
-
-}
-
-#puppynav li {
-  width: 33.33%;
-}
-
-#puppynav a {
-  color: white;
+#sel{
+  color:white;
   font-weight: bold;
+  font-size:20px;
+  padding-left:70px;
 }
 
-#puppynav a:hover {
-  color: white;
-  font-weight: bold;
-  background: #ffca53;
-}
-
-.subtitle {
+#logo{
   position: relative;
-  left: 20px;
-  color: white;
-  font-size: 13pt;
-  font-family: 'Open Sans';
-  font-weight: 100;
-  width: 400px;
+  right:30px;
 }
 
-#login {
-  border-radius: 0px;
+
+#footer{
+  background-color:rgba(36, 102, 255,.2);
+}
+
+#foot{
   position: relative;
-  top:50px;
-  right: 10px;
-  background: #333;
-  color: white;
-  font-family: 'Bitter';
-}
-
-label {
-  color: black;
-  width: 100px;
-}
-
-
-#login:hover{
-  background: #555;
-}
-
-
-#signup {
-  display:none;
-}
-
-#signupbutton {
-  display: none;
-}
-
-#back-button {
-  bottom-padding: 10px;
-}
-
-#form-signup {
-  text-align: center;
-}
-
-#logininfo, #signupquestion{
-  text-align: center;
-}
-
-#confirmation {
-  display: none;
-}
-
-#myModal {
-  font-size: 12pt;
+  left:48px;
 }
